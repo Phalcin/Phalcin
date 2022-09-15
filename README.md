@@ -1,6 +1,6 @@
 
 
-<img width="100%" height="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
+<img width="100%" height="300px" src="https://giffiles.alphacoders.com/360/36033.gif"/>
 
 # Hi There 👋, I'm Emmanuel
 
