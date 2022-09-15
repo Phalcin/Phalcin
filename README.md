@@ -1,3 +1,7 @@
+
+
+<img width="100%" height="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
+
 # Hi There 👋, I'm Emmanuel
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Phalcin&show_icons=true&theme=radical" />
@@ -22,6 +26,22 @@
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
+
+# ℹ My Info
+
+  - 🌱 I’m currently learning **Javascript**
+
+  - 💬 Ask me about **Html,Css and Javascript**
+
+  - 📫 How to reach me **IamPhalcin@gmail.com**
+
+  - ⚡ Fun fact **I am a little funny 😅**
+  
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 
 
  
