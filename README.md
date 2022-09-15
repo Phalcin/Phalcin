@@ -6,8 +6,9 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Phalcin&show_icons=true&theme=radical" />
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><br />
 
+# ⚙ Languages And Tools
 
 <p><img align="left"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></p>
 
@@ -37,11 +38,13 @@
 
   - ⚡ Fun fact **I am a little funny 😅**
   
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+   <details>
+<summary>View my activity on GitHub</summary>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=phalcin&show_icons=true&locale=en)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=phalcin&)
+
+</details>
 
  
