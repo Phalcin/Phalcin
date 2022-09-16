@@ -6,7 +6,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Phalcin&show_icons=true&theme=radical" />
 
-<img align="left" alt="Phalcin stats" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xZAYEDx&layout=compact&theme=tokyonight" /><br />
+<img align="left" alt="Phalcin stats" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phalcin&layout=compact&theme=tokyonight" /><br />
 
 
 # ⚙ Languages And Tools
