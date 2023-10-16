@@ -2,7 +2,7 @@
 
 <img width="100%" height="300px" src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80"/>
 
-# Hi There 👋, I'm Emmanuel
+# Hi There 👋, I'm Phalcin
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Phalcin&show_icons=true&theme=radical" />
 
