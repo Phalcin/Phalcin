@@ -20,7 +20,7 @@
 <p><img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></p>
 
 
-# ℹ My Info
+# My Info
 
   - 💬 Ask me about **Html,Css and Javascript**
   - 📚 Learning and practicing Front-End technologies
