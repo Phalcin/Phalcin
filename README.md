@@ -28,7 +28,7 @@
   - 🔭 I’m currently working on [FrontEnd Mentor challenges](https://www.frontendmentor.io/profile/Phalcin)
   - 👯 I’m looking to collaborate with other developers to practice working on projects together 
   - 🎯 2022 Goals: Become a Front-End developer
-  - 📫 How to reach me **IamPhalcin@gmail.com**
+  - 📫 How to reach me **Phalcinhayes@gmail.com**
   
    <details>
 <summary>View my activity on GitHub</summary>
